@@ -1,0 +1,37 @@
+\contentsline {section}{\numberline {1}Objectives and Task Description}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Common Background}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Topic 2: Frequency Resolution and Zero Padding}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Analysis of the Simulation Task}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Simulation Code}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Simulation Results}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Analysis of the Results}{3}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Zero Padding Does Not Improve Resolution}{3}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Longer Records and the Best Choice of Parameters}{4}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Influence of the Window Type}{6}{subsubsection.2.4.3}%
+\contentsline {section}{\numberline {3}Topic 3: Spectrum of the Scale Signal and Its Key}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Analysis of the Simulation Task}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Simulation Code}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Simulation Results}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Analysis of the Results}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Whole-Record Spectrum}{10}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Order of the Notes and the Key}{10}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}Topic 4: Spectral Components of a Chord}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Analysis of the Simulation Task}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Simulation Code}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Simulation Results}{15}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Analysis of the Results}{15}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Composition of the Chord}{15}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}The 16th-Note Problem}{15}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Remedy: Using Prior Knowledge}{15}{subsubsection.4.4.3}%
+\contentsline {section}{\numberline {5}Topic 5: Spectral Analysis of a Scale with Harmonics}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Analysis of the Simulation Task}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Simulation Code}{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Simulation Results}{17}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Analysis of the Results}{17}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Why the Whole-Record Spectrum Is Not Enough}{17}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Composition of Each Note}{21}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Verification}{22}{subsubsection.5.4.3}%
+\contentsline {section}{\numberline {6}Problems Encountered and Solutions}{22}{section.6}%
+\contentsline {section}{\numberline {7}Self-Study Content}{23}{section.7}%
+\contentsline {section}{References}{24}{section*.28}%
+\contentsline {section}{\numberline {A}Complete MATLAB Source Code}{24}{appendix.A}%
